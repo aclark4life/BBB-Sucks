@@ -1,5 +1,6 @@
 
 import Products.CMFCore as cmf
+import zope.app.component as zap
 import zope.component as zc
 
 try:
@@ -25,6 +26,7 @@ def main():
     print 'Version: Plone %d' % PLONE_VERSION
     print 'Imported: %s' % cmf
     print 'Imported: %s' % cp
+    print 'Imported: %s' % zap
     print 'Imported: %s' % zc
     print 'Imported: %s' % zcml
     print
