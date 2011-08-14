@@ -7,3 +7,12 @@ Imported: <module 'zope.app.component' from '/Users/aclark/Developer/t/BBB-Sucks
 Imported: <module 'zope.component' from '/Users/aclark/Developer/t/BBB-Sucks/parts/zope2/lib/python/zope/component/__init__.pyc'>
 Imported: <module 'Products.Five.zcml' from '/Users/aclark/Developer/t/BBB-Sucks/parts/zope2/lib/python/Products/Five/zcml.pyc'>
 
+BBB sucks!
+==========
+Version: Plone 4
+Imported: <module 'Products.CMFCore' from '/Users/aclark/Downloads/eggs-directory/Products.CMFCore-2.2.4-py2.6.egg/Products/CMFCore/__init__.pyc'>
+Imported: <module 'configparser' from '/Users/aclark/Downloads/eggs-directory/configparser-3.2.0r3-py2.6.egg/configparser.pyc'>
+Imported: <module 'zope.app.component' from '/Users/aclark/Downloads/eggs-directory/zope.app.component-3.9.2-py2.6.egg/zope/app/component/__init__.pyc'>
+Imported: <module 'zope.component' from '/Users/aclark/Downloads/eggs-directory/zope.component-3.9.5-py2.6.egg/zope/component/__init__.pyc'>
+Imported: <module 'Zope2.App.zcml' from '/Users/aclark/Downloads/eggs-directory/Zope2-2.13.8-py2.6.egg/Zope2/App/zcml.pyc'>
+
