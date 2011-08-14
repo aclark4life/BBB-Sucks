@@ -2,3 +2,7 @@ BBB sucks!
 ==========
 Imported: <module 'configparser' from '/Users/aclark/Downloads/eggs-directory/configparser-3.2.0r3-py2.6.egg/configparser.pyc'>
 Imported: <module 'Zope2.App.zcml' from '/Users/aclark/Downloads/eggs-directory/Zope2-2.13.8-py2.6.egg/Zope2/App/zcml.pyc'>
+BBB sucks!
+==========
+Imported: <module 'ConfigParser' from '/Users/aclark/Developer/collective/python/parts/opt/lib/python2.4/ConfigParser.pyc'>
+Imported: <module 'Products.Five.zcml' from '/Users/aclark/Developer/t/BBB-Sucks/parts/zope2/lib/python/Products/Five/zcml.pyc'>
