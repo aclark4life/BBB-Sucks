@@ -1,5 +1,5 @@
 
-import collective.transmogrifier
+import Products.CMFCore as cmf
 import zope.component as zc
 
 try:
@@ -23,6 +23,7 @@ def main():
     print 'BBB sucks!'
     print '=========='
     print 'Version: Plone %d' % PLONE_VERSION
+    print 'Imported: %s' % cmf
     print 'Imported: %s' % cp
     print 'Imported: %s' % zc
     print 'Imported: %s' % zcml
